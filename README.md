@@ -130,3 +130,5 @@ Projeto desenvolvido para a disciplina de **Desenvolvimento de Sistemas**, com f
 O **Painel Digital Escolar** foi criado para transformar a maneira como alunos e professores organizam sua rotina escolar, trazendo mais praticidade, clareza e eficiência para o ambiente acadêmico.
 
 Nosso principal objetivo é facilitar os estudos, melhorar a comunicação escolar e tornar a organização do dia a dia muito mais simples e acessível para todos.
+
+
