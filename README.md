@@ -18,7 +18,7 @@ O sistema foi pensado para oferecer mais praticidade, comunicação e organizaç
 
 ---
 
-## Objetivo Principal
+# Objetivo Principal
 
 Criar uma ferramenta digital simples, organizada e modificável que ajude alunos e professores a acompanharem os horários escolares, atividades e eventos da escola de forma clara e acessível.
 
@@ -26,41 +26,52 @@ Além de organizar a rotina acadêmica, o projeto busca melhorar a comunicação
 
 ---
 
-## Funcionalidades do Sistema
+# Funcionalidades do Sistema
 
-### Cronograma de Aulas
+## Cronograma de Aulas
 
 * Visualização dos horários organizados por turma
 * Separação por matéria, professor e horário
 * Estrutura em tabelas para melhor organização
 
-### Registro de Atividades
+## Registro de Atividades
 
 * Adição de tarefas e trabalhos passados em aula
 * Avisos importantes sobre avaliações
 * Atualizações diárias feitas pelos professores
 
-### Informações Escolares
+## Informações Escolares
 
 * Avisos sobre faltas de professores
 * Divulgação de palestras, eventos e passeios
 * Comunicados importantes para cada turma
 
-### Sistema Colaborativo
+## Sistema Colaborativo
 
 * Todos os professores poderão editar o painel
 * Cada turma terá 1 representante escolhido pelos alunos
 * O representante poderá adicionar informações importantes do dia
 
-### Organização e Autenticidade
+## Desempenho das Turmas
 
-* Cada turma terá acesso ao seu próprio cronograma
-* Informações atualizadas em tempo real
-* Ambiente organizado e confiável para alunos e professores
+O sistema também contará com uma área dedicada ao acompanhamento do desempenho acadêmico das turmas.
+
+### Funcionalidades:
+
+* Gráfico de desempenho de cada turma
+* Média geral das notas
+* Comparação entre turmas
+* Acompanhamento da evolução escolar
+* Indicadores de rendimento acadêmico
+* Relatórios organizados por turma
+
+### Objetivo:
+
+Ajudar professores e alunos a identificarem dificuldades, acompanharem o progresso da turma e incentivarem uma melhor organização dos estudos.
 
 ---
 
-## Estrutura do Painel
+# Estrutura do Painel
 
 O painel será dividido em tabelas organizadas contendo:
 
@@ -70,10 +81,11 @@ O painel será dividido em tabelas organizadas contendo:
 * Atividades do dia
 * Eventos escolares
 * Avisos importantes
+* Gráficos de desempenho das turmas
 
 ---
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 * HTML
 * CSS
@@ -84,33 +96,36 @@ O painel será dividido em tabelas organizadas contendo:
 
 ---
 
-## Diferenciais do Projeto
+# Diferenciais do Projeto
 
 * Organização escolar centralizada
 * Comunicação mais eficiente entre escola e alunos
 * Facilidade de acesso às informações
 * Sistema colaborativo e modificável
+* Acompanhamento do desempenho das turmas
 * Melhor planejamento da rotina acadêmica
 
 ---
 
-## Equipe
+# Equipe
 
 Projeto desenvolvido para a disciplina de **Desenvolvimento de Sistemas**, com foco em inovação, organização e melhoria da rotina escolar.
 
 ---
 
-## Futuras Melhorias
+# Futuras Melhorias
 
 * Sistema de login para alunos e professores
 * Notificações automáticas
 * Aplicativo mobile
 * Integração com calendário escolar
 * Área para envio de arquivos e atividades
+* Dashboard com gráficos interativos
+* Relatórios automáticos de desempenho
 
 ---
 
-## Conclusão
+# Conclusão
 
 O **Painel Digital Escolar** foi criado para transformar a maneira como alunos e professores organizam sua rotina escolar, trazendo mais praticidade, clareza e eficiência para o ambiente acadêmico.
 
